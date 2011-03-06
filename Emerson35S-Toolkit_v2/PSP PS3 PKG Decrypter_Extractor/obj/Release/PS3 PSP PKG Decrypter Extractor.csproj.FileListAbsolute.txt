@@ -1,0 +1,17 @@
+C:\Documents and Settings\Emerson\Desktop\secret\PSP PS3 PKG Decrypter Extractor v.1.0.0.0\PSP PS3 PKG Decrypter_Extractor\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Emerson\Desktop\secret\PSP PS3 PKG Decrypter Extractor v.1.0.0.0\PSP PS3 PKG Decrypter_Extractor\obj\Release\FormControls.FileDirBrowser.resources
+C:\Documents and Settings\Emerson\Desktop\secret\PSP PS3 PKG Decrypter Extractor v.1.0.0.0\PSP PS3 PKG Decrypter_Extractor\obj\Release\PKG_Manager.Form1.resources
+C:\Documents and Settings\Emerson\Desktop\secret\PSP PS3 PKG Decrypter Extractor v.1.0.0.0\PSP PS3 PKG Decrypter_Extractor\obj\Release\PKG_Manager.Form2.resources
+C:\Documents and Settings\Emerson\Desktop\secret\PSP PS3 PKG Decrypter Extractor v.1.0.0.0\PSP PS3 PKG Decrypter_Extractor\obj\Release\PKG_Manager.FormMain.resources
+C:\Documents and Settings\Emerson\Desktop\secret\PSP PS3 PKG Decrypter Extractor v.1.0.0.0\PSP PS3 PKG Decrypter_Extractor\obj\Release\PKG_Manager.Properties.Resources.resources
+C:\Documents and Settings\Emerson\Desktop\secret\PSP PS3 PKG Decrypter Extractor v.1.0.0.0\PSP PS3 PKG Decrypter_Extractor\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Emerson\Desktop\secret\PSP PS3 PKG Decrypter Extractor v.1.0.0.0\PSP PS3 PKG Decrypter_Extractor\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Emerson\Desktop\secret\PSP PS3 PKG Decrypter Extractor v.1.0.0.0\PSP PS3 PKG Decrypter_Extractor\obj\Release\PKG_Manager.tut.resources
+C:\Documents and Settings\Emerson\Desktop\secret\PSP PS3 PKG Decrypter Extractor v.1.0.0.0\PSP PS3 PKG Decrypter_Extractor\bin\Release\ES35's PS3 ToolKit.exe.manifest
+C:\Documents and Settings\Emerson\Desktop\secret\PSP PS3 PKG Decrypter Extractor v.1.0.0.0\PSP PS3 PKG Decrypter_Extractor\bin\Release\ES35's PS3 ToolKit.application
+C:\Documents and Settings\Emerson\Desktop\secret\PSP PS3 PKG Decrypter Extractor v.1.0.0.0\PSP PS3 PKG Decrypter_Extractor\bin\Release\ES35's PS3 ToolKit.exe
+C:\Documents and Settings\Emerson\Desktop\secret\PSP PS3 PKG Decrypter Extractor v.1.0.0.0\PSP PS3 PKG Decrypter_Extractor\bin\Release\ES35's PS3 ToolKit.pdb
+C:\Documents and Settings\Emerson\Desktop\secret\PSP PS3 PKG Decrypter Extractor v.1.0.0.0\PSP PS3 PKG Decrypter_Extractor\obj\Release\ES35's PS3 ToolKit.exe.manifest
+C:\Documents and Settings\Emerson\Desktop\secret\PSP PS3 PKG Decrypter Extractor v.1.0.0.0\PSP PS3 PKG Decrypter_Extractor\obj\Release\ES35's PS3 ToolKit.application
+C:\Documents and Settings\Emerson\Desktop\secret\PSP PS3 PKG Decrypter Extractor v.1.0.0.0\PSP PS3 PKG Decrypter_Extractor\obj\Release\ES35's PS3 ToolKit.exe
+C:\Documents and Settings\Emerson\Desktop\secret\PSP PS3 PKG Decrypter Extractor v.1.0.0.0\PSP PS3 PKG Decrypter_Extractor\obj\Release\ES35's PS3 ToolKit.pdb
